@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 12 While Loop Exercise\While loop Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 12 While Loop Exercise\While loop Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 12 While Loop Exercise\While loop Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 12 While Loop Exercise\While loop Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 12 While Loop Exercise\While loop Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 12 While Loop Exercise\While loop Exercise\04. Walking\bin\Debug\netcoreapp3.1\04. Walking.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 12 While Loop Exercise\While loop Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 12 While Loop Exercise\While loop Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 12 While Loop Exercise\While loop Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 12 While Loop Exercise\While loop Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 12 While Loop Exercise\While loop Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 12 While Loop Exercise\While loop Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 12 While Loop Exercise\While loop Exercise\04. Walking\obj\Debug\netcoreapp3.1\04. Walking.genruntimeconfig.cache

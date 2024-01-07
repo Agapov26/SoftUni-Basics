@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

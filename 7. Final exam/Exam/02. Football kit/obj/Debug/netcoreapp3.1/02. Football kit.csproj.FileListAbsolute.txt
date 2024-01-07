@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\02. Football kit\bin\Debug\netcoreapp3.1\02. Football kit.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\02. Football kit\bin\Debug\netcoreapp3.1\02. Football kit.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\02. Football kit\bin\Debug\netcoreapp3.1\02. Football kit.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\02. Football kit\bin\Debug\netcoreapp3.1\02. Football kit.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\02. Football kit\bin\Debug\netcoreapp3.1\02. Football kit.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\02. Football kit\bin\Debug\netcoreapp3.1\02. Football kit.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\02. Football kit\obj\Debug\netcoreapp3.1\02. Football kit.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\02. Football kit\obj\Debug\netcoreapp3.1\02. Football kit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\02. Football kit\obj\Debug\netcoreapp3.1\02. Football kit.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\02. Football kit\obj\Debug\netcoreapp3.1\02. Football kit.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\02. Football kit\obj\Debug\netcoreapp3.1\02. Football kit.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\02. Football kit\obj\Debug\netcoreapp3.1\02. Football kit.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\02. Football kit\obj\Debug\netcoreapp3.1\02. Football kit.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\02. Football kit\obj\Debug\netcoreapp3.1\02. Football kit.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Fruit Shop 11\bin\Debug\netcoreapp3.1\Fruit Shop 11.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Fruit Shop 11\bin\Debug\netcoreapp3.1\Fruit Shop 11.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Fruit Shop 11\bin\Debug\netcoreapp3.1\Fruit Shop 11.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Fruit Shop 11\bin\Debug\netcoreapp3.1\Fruit Shop 11.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Fruit Shop 11\bin\Debug\netcoreapp3.1\Fruit Shop 11.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Fruit Shop 11\bin\Debug\netcoreapp3.1\Fruit Shop 11.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Fruit Shop 11\obj\Debug\netcoreapp3.1\Fruit Shop 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Fruit Shop 11\obj\Debug\netcoreapp3.1\Fruit Shop 11.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Fruit Shop 11\obj\Debug\netcoreapp3.1\Fruit Shop 11.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Fruit Shop 11\obj\Debug\netcoreapp3.1\Fruit Shop 11.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Fruit Shop 11\obj\Debug\netcoreapp3.1\Fruit Shop 11.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Fruit Shop 11\obj\Debug\netcoreapp3.1\Fruit Shop 11.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Fruit Shop 11\obj\Debug\netcoreapp3.1\Fruit Shop 11.genruntimeconfig.cache

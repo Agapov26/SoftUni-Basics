@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Lunch Break 8\bin\Debug\netcoreapp3.1\Lunch Break 8.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Lunch Break 8\bin\Debug\netcoreapp3.1\Lunch Break 8.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Lunch Break 8\bin\Debug\netcoreapp3.1\Lunch Break 8.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Lunch Break 8\bin\Debug\netcoreapp3.1\Lunch Break 8.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Lunch Break 8\bin\Debug\netcoreapp3.1\Lunch Break 8.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Lunch Break 8\bin\Debug\netcoreapp3.1\Lunch Break 8.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Lunch Break 8\obj\Debug\netcoreapp3.1\Lunch Break 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Lunch Break 8\obj\Debug\netcoreapp3.1\Lunch Break 8.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Lunch Break 8\obj\Debug\netcoreapp3.1\Lunch Break 8.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Lunch Break 8\obj\Debug\netcoreapp3.1\Lunch Break 8.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Lunch Break 8\obj\Debug\netcoreapp3.1\Lunch Break 8.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Lunch Break 8\obj\Debug\netcoreapp3.1\Lunch Break 8.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Lunch Break 8\obj\Debug\netcoreapp3.1\Lunch Break 8.genruntimeconfig.cache

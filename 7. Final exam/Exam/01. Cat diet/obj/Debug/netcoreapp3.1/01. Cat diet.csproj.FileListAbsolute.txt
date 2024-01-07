@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\01. Cat diet\bin\Debug\netcoreapp3.1\01. Cat diet.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\01. Cat diet\bin\Debug\netcoreapp3.1\01. Cat diet.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\01. Cat diet\bin\Debug\netcoreapp3.1\01. Cat diet.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\01. Cat diet\bin\Debug\netcoreapp3.1\01. Cat diet.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\01. Cat diet\bin\Debug\netcoreapp3.1\01. Cat diet.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\01. Cat diet\bin\Debug\netcoreapp3.1\01. Cat diet.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\01. Cat diet\obj\Debug\netcoreapp3.1\01. Cat diet.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\01. Cat diet\obj\Debug\netcoreapp3.1\01. Cat diet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\01. Cat diet\obj\Debug\netcoreapp3.1\01. Cat diet.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\01. Cat diet\obj\Debug\netcoreapp3.1\01. Cat diet.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\01. Cat diet\obj\Debug\netcoreapp3.1\01. Cat diet.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\01. Cat diet\obj\Debug\netcoreapp3.1\01. Cat diet.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\01. Cat diet\obj\Debug\netcoreapp3.1\01. Cat diet.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\01. Cat diet\obj\Debug\netcoreapp3.1\01. Cat diet.genruntimeconfig.cache

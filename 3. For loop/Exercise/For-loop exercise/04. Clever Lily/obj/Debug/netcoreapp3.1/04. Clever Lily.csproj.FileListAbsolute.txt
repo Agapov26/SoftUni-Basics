@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\04. Clever Lily\bin\Debug\netcoreapp3.1\04. Clever Lily.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\04. Clever Lily\obj\Debug\netcoreapp3.1\04. Clever Lily.genruntimeconfig.cache

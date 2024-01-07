@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\06. Vowels Sum\bin\Debug\netcoreapp3.1\06. Vowels Sum.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.genruntimeconfig.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\06. Vowels Sum\obj\Debug\netcoreapp3.1\06. Vowels Sum.csproj.AssemblyReference.cache

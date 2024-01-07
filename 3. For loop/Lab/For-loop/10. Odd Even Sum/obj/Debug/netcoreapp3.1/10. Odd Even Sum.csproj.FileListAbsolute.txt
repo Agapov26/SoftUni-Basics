@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\10. Odd Even Sum\bin\Debug\netcoreapp3.1\10. Odd Even Sum.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\10. Odd Even Sum\obj\Debug\netcoreapp3.1\10. Odd Even Sum.genruntimeconfig.cache

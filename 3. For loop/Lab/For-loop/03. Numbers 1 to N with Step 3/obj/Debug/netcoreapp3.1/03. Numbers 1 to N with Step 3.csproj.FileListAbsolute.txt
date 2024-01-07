@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\03. Numbers 1 to N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\03. Numbers 1 to N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\03. Numbers 1 to N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\03. Numbers 1 to N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\03. Numbers 1 to N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\03. Numbers 1 to N with Step 3\bin\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\03. Numbers 1 to N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\03. Numbers 1 to N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\03. Numbers 1 to N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\03. Numbers 1 to N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\03. Numbers 1 to N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\03. Numbers 1 to N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\03. Numbers 1 to N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\03. Numbers 1 to N with Step 3\obj\Debug\netcoreapp3.1\03. Numbers 1 to N with Step 3.genruntimeconfig.cache

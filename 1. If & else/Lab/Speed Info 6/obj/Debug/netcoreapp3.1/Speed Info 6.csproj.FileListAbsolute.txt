@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Speed Info 6\bin\Debug\netcoreapp3.1\Speed Info 6.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Speed Info 6\bin\Debug\netcoreapp3.1\Speed Info 6.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Speed Info 6\bin\Debug\netcoreapp3.1\Speed Info 6.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Speed Info 6\bin\Debug\netcoreapp3.1\Speed Info 6.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Speed Info 6\bin\Debug\netcoreapp3.1\Speed Info 6.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Speed Info 6\bin\Debug\netcoreapp3.1\Speed Info 6.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Speed Info 6\obj\Debug\netcoreapp3.1\Speed Info 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Speed Info 6\obj\Debug\netcoreapp3.1\Speed Info 6.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Speed Info 6\obj\Debug\netcoreapp3.1\Speed Info 6.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Speed Info 6\obj\Debug\netcoreapp3.1\Speed Info 6.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Speed Info 6\obj\Debug\netcoreapp3.1\Speed Info 6.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Speed Info 6\obj\Debug\netcoreapp3.1\Speed Info 6.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Speed Info 6\obj\Debug\netcoreapp3.1\Speed Info 6.genruntimeconfig.cache

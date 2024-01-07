@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Godzilla vs. Kong 5\bin\Debug\netcoreapp3.1\Godzilla vs. Kong 5.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Godzilla vs. Kong 5\bin\Debug\netcoreapp3.1\Godzilla vs. Kong 5.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Godzilla vs. Kong 5\bin\Debug\netcoreapp3.1\Godzilla vs. Kong 5.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Godzilla vs. Kong 5\bin\Debug\netcoreapp3.1\Godzilla vs. Kong 5.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Godzilla vs. Kong 5\bin\Debug\netcoreapp3.1\Godzilla vs. Kong 5.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Godzilla vs. Kong 5\bin\Debug\netcoreapp3.1\Godzilla vs. Kong 5.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Godzilla vs. Kong 5\obj\Debug\netcoreapp3.1\Godzilla vs. Kong 5.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Godzilla vs. Kong 5\obj\Debug\netcoreapp3.1\Godzilla vs. Kong 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Godzilla vs. Kong 5\obj\Debug\netcoreapp3.1\Godzilla vs. Kong 5.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Godzilla vs. Kong 5\obj\Debug\netcoreapp3.1\Godzilla vs. Kong 5.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Godzilla vs. Kong 5\obj\Debug\netcoreapp3.1\Godzilla vs. Kong 5.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Godzilla vs. Kong 5\obj\Debug\netcoreapp3.1\Godzilla vs. Kong 5.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Godzilla vs. Kong 5\obj\Debug\netcoreapp3.1\Godzilla vs. Kong 5.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Godzilla vs. Kong 5\obj\Debug\netcoreapp3.1\Godzilla vs. Kong 5.genruntimeconfig.cache

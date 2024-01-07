@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Number 100 to 200 5\bin\Debug\netcoreapp3.1\Number 100 to 200 5.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Number 100 to 200 5\bin\Debug\netcoreapp3.1\Number 100 to 200 5.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Number 100 to 200 5\bin\Debug\netcoreapp3.1\Number 100 to 200 5.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Number 100 to 200 5\bin\Debug\netcoreapp3.1\Number 100 to 200 5.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Number 100 to 200 5\bin\Debug\netcoreapp3.1\Number 100 to 200 5.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Number 100 to 200 5\bin\Debug\netcoreapp3.1\Number 100 to 200 5.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Number 100 to 200 5\obj\Debug\netcoreapp3.1\Number 100 to 200 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Number 100 to 200 5\obj\Debug\netcoreapp3.1\Number 100 to 200 5.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Number 100 to 200 5\obj\Debug\netcoreapp3.1\Number 100 to 200 5.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Number 100 to 200 5\obj\Debug\netcoreapp3.1\Number 100 to 200 5.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Number 100 to 200 5\obj\Debug\netcoreapp3.1\Number 100 to 200 5.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Number 100 to 200 5\obj\Debug\netcoreapp3.1\Number 100 to 200 5.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 5 Proverki\Number 100 to 200 5\obj\Debug\netcoreapp3.1\Number 100 to 200 5.genruntimeconfig.cache

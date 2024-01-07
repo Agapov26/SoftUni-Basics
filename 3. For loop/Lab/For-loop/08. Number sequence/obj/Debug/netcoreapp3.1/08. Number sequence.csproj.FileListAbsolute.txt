@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\08. Number sequence\bin\Debug\netcoreapp3.1\08. Number sequence.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\08. Number sequence\obj\Debug\netcoreapp3.1\08. Number sequence.genruntimeconfig.cache

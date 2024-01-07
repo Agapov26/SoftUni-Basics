@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\03.  Final competition\bin\Debug\netcoreapp3.1\03.  Final competition.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\03.  Final competition\bin\Debug\netcoreapp3.1\03.  Final competition.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\03.  Final competition\bin\Debug\netcoreapp3.1\03.  Final competition.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\03.  Final competition\bin\Debug\netcoreapp3.1\03.  Final competition.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\03.  Final competition\bin\Debug\netcoreapp3.1\03.  Final competition.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\03.  Final competition\bin\Debug\netcoreapp3.1\03.  Final competition.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\03.  Final competition\obj\Debug\netcoreapp3.1\03.  Final competition.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\03.  Final competition\obj\Debug\netcoreapp3.1\03.  Final competition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\03.  Final competition\obj\Debug\netcoreapp3.1\03.  Final competition.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\03.  Final competition\obj\Debug\netcoreapp3.1\03.  Final competition.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\03.  Final competition\obj\Debug\netcoreapp3.1\03.  Final competition.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\03.  Final competition\obj\Debug\netcoreapp3.1\03.  Final competition.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\03.  Final competition\obj\Debug\netcoreapp3.1\03.  Final competition.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 16 Exam\Exam\03.  Final competition\obj\Debug\netcoreapp3.1\03.  Final competition.genruntimeconfig.cache

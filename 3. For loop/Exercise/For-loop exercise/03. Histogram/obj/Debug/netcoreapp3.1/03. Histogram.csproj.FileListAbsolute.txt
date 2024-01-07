@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\03. Histogram\bin\Debug\netcoreapp3.1\03. Histogram.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\03. Histogram\obj\Debug\netcoreapp3.1\03. Histogram.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\06. Oscars\bin\Debug\netcoreapp3.1\06. Oscars.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\06. Oscars\bin\Debug\netcoreapp3.1\06. Oscars.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\06. Oscars\bin\Debug\netcoreapp3.1\06. Oscars.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\06. Oscars\bin\Debug\netcoreapp3.1\06. Oscars.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\06. Oscars\bin\Debug\netcoreapp3.1\06. Oscars.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\06. Oscars\bin\Debug\netcoreapp3.1\06. Oscars.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\06. Oscars\obj\Debug\netcoreapp3.1\06. Oscars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\06. Oscars\obj\Debug\netcoreapp3.1\06. Oscars.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\06. Oscars\obj\Debug\netcoreapp3.1\06. Oscars.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\06. Oscars\obj\Debug\netcoreapp3.1\06. Oscars.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\06. Oscars\obj\Debug\netcoreapp3.1\06. Oscars.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\06. Oscars\obj\Debug\netcoreapp3.1\06. Oscars.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\06. Oscars\obj\Debug\netcoreapp3.1\06. Oscars.genruntimeconfig.cache

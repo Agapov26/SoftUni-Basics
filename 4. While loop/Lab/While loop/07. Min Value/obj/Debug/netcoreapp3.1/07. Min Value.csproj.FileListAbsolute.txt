@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\07. Min Value\bin\Debug\netcoreapp3.1\07. Min Value.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\07. Min Value\bin\Debug\netcoreapp3.1\07. Min Value.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\07. Min Value\bin\Debug\netcoreapp3.1\07. Min Value.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\07. Min Value\bin\Debug\netcoreapp3.1\07. Min Value.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\07. Min Value\bin\Debug\netcoreapp3.1\07. Min Value.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\07. Min Value\bin\Debug\netcoreapp3.1\07. Min Value.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\07. Min Value\obj\Debug\netcoreapp3.1\07. Min Value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\07. Min Value\obj\Debug\netcoreapp3.1\07. Min Value.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\07. Min Value\obj\Debug\netcoreapp3.1\07. Min Value.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\07. Min Value\obj\Debug\netcoreapp3.1\07. Min Value.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\07. Min Value\obj\Debug\netcoreapp3.1\07. Min Value.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\07. Min Value\obj\Debug\netcoreapp3.1\07. Min Value.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 11 While Loop\While loop\07. Min Value\obj\Debug\netcoreapp3.1\07. Min Value.genruntimeconfig.cache

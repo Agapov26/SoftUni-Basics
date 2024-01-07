@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Ski Trip 9\bin\Debug\netcoreapp3.1\Ski Trip 9.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Ski Trip 9\bin\Debug\netcoreapp3.1\Ski Trip 9.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Ski Trip 9\bin\Debug\netcoreapp3.1\Ski Trip 9.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Ski Trip 9\bin\Debug\netcoreapp3.1\Ski Trip 9.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Ski Trip 9\bin\Debug\netcoreapp3.1\Ski Trip 9.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Ski Trip 9\bin\Debug\netcoreapp3.1\Ski Trip 9.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Ski Trip 9\obj\Debug\netcoreapp3.1\Ski Trip 9.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Ski Trip 9\obj\Debug\netcoreapp3.1\Ski Trip 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Ski Trip 9\obj\Debug\netcoreapp3.1\Ski Trip 9.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Ski Trip 9\obj\Debug\netcoreapp3.1\Ski Trip 9.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Ski Trip 9\obj\Debug\netcoreapp3.1\Ski Trip 9.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Ski Trip 9\obj\Debug\netcoreapp3.1\Ski Trip 9.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Ski Trip 9\obj\Debug\netcoreapp3.1\Ski Trip 9.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Ski Trip 9\obj\Debug\netcoreapp3.1\Ski Trip 9.genruntimeconfig.cache

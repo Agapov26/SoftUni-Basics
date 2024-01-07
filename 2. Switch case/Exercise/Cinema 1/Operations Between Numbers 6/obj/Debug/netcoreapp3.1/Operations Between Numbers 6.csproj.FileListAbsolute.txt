@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Operations Between Numbers 6\bin\Debug\netcoreapp3.1\Operations Between Numbers 6.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Operations Between Numbers 6\bin\Debug\netcoreapp3.1\Operations Between Numbers 6.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Operations Between Numbers 6\bin\Debug\netcoreapp3.1\Operations Between Numbers 6.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Operations Between Numbers 6\bin\Debug\netcoreapp3.1\Operations Between Numbers 6.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Operations Between Numbers 6\bin\Debug\netcoreapp3.1\Operations Between Numbers 6.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Operations Between Numbers 6\bin\Debug\netcoreapp3.1\Operations Between Numbers 6.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Operations Between Numbers 6\obj\Debug\netcoreapp3.1\Operations Between Numbers 6.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Operations Between Numbers 6\obj\Debug\netcoreapp3.1\Operations Between Numbers 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Operations Between Numbers 6\obj\Debug\netcoreapp3.1\Operations Between Numbers 6.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Operations Between Numbers 6\obj\Debug\netcoreapp3.1\Operations Between Numbers 6.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Operations Between Numbers 6\obj\Debug\netcoreapp3.1\Operations Between Numbers 6.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Operations Between Numbers 6\obj\Debug\netcoreapp3.1\Operations Between Numbers 6.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Operations Between Numbers 6\obj\Debug\netcoreapp3.1\Operations Between Numbers 6.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\Operations Between Numbers 6\obj\Debug\netcoreapp3.1\Operations Between Numbers 6.genruntimeconfig.cache

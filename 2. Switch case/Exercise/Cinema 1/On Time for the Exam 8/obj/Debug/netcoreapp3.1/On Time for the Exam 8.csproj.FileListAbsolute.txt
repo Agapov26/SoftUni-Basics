@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\On Time for the Exam 8\bin\Debug\netcoreapp3.1\On Time for the Exam 8.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\On Time for the Exam 8\bin\Debug\netcoreapp3.1\On Time for the Exam 8.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\On Time for the Exam 8\bin\Debug\netcoreapp3.1\On Time for the Exam 8.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\On Time for the Exam 8\bin\Debug\netcoreapp3.1\On Time for the Exam 8.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\On Time for the Exam 8\bin\Debug\netcoreapp3.1\On Time for the Exam 8.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\On Time for the Exam 8\bin\Debug\netcoreapp3.1\On Time for the Exam 8.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\On Time for the Exam 8\obj\Debug\netcoreapp3.1\On Time for the Exam 8.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\On Time for the Exam 8\obj\Debug\netcoreapp3.1\On Time for the Exam 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\On Time for the Exam 8\obj\Debug\netcoreapp3.1\On Time for the Exam 8.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\On Time for the Exam 8\obj\Debug\netcoreapp3.1\On Time for the Exam 8.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\On Time for the Exam 8\obj\Debug\netcoreapp3.1\On Time for the Exam 8.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\On Time for the Exam 8\obj\Debug\netcoreapp3.1\On Time for the Exam 8.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\On Time for the Exam 8\obj\Debug\netcoreapp3.1\On Time for the Exam 8.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 8 Switch-case Exercise\Cinema 1\On Time for the Exam 8\obj\Debug\netcoreapp3.1\On Time for the Exam 8.genruntimeconfig.cache

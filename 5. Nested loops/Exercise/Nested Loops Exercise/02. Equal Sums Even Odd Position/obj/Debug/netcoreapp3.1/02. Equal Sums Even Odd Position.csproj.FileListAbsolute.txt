@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 14 Nested Loops Exercise\Nested Loops Exercise\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 14 Nested Loops Exercise\Nested Loops Exercise\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 14 Nested Loops Exercise\Nested Loops Exercise\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 14 Nested Loops Exercise\Nested Loops Exercise\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 14 Nested Loops Exercise\Nested Loops Exercise\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 14 Nested Loops Exercise\Nested Loops Exercise\02. Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 14 Nested Loops Exercise\Nested Loops Exercise\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 14 Nested Loops Exercise\Nested Loops Exercise\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 14 Nested Loops Exercise\Nested Loops Exercise\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 14 Nested Loops Exercise\Nested Loops Exercise\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 14 Nested Loops Exercise\Nested Loops Exercise\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 14 Nested Loops Exercise\Nested Loops Exercise\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 14 Nested Loops Exercise\Nested Loops Exercise\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 14 Nested Loops Exercise\Nested Loops Exercise\02. Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\02. Equal Sums Even Odd Position.genruntimeconfig.cache

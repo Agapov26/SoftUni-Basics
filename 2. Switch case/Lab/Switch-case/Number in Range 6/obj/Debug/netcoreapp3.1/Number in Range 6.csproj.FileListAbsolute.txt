@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Number in Range 6\bin\Debug\netcoreapp3.1\Number in Range 6.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Number in Range 6\bin\Debug\netcoreapp3.1\Number in Range 6.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Number in Range 6\bin\Debug\netcoreapp3.1\Number in Range 6.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Number in Range 6\bin\Debug\netcoreapp3.1\Number in Range 6.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Number in Range 6\bin\Debug\netcoreapp3.1\Number in Range 6.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Number in Range 6\bin\Debug\netcoreapp3.1\Number in Range 6.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Number in Range 6\obj\Debug\netcoreapp3.1\Number in Range 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Number in Range 6\obj\Debug\netcoreapp3.1\Number in Range 6.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Number in Range 6\obj\Debug\netcoreapp3.1\Number in Range 6.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Number in Range 6\obj\Debug\netcoreapp3.1\Number in Range 6.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Number in Range 6\obj\Debug\netcoreapp3.1\Number in Range 6.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Number in Range 6\obj\Debug\netcoreapp3.1\Number in Range 6.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Number in Range 6\obj\Debug\netcoreapp3.1\Number in Range 6.genruntimeconfig.cache

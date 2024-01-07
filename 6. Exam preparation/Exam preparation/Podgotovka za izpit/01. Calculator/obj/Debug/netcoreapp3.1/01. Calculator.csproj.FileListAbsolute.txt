@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\01. Calculator\bin\Debug\netcoreapp3.1\01. Calculator.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\01. Calculator\bin\Debug\netcoreapp3.1\01. Calculator.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\01. Calculator\bin\Debug\netcoreapp3.1\01. Calculator.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\01. Calculator\bin\Debug\netcoreapp3.1\01. Calculator.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\01. Calculator\bin\Debug\netcoreapp3.1\01. Calculator.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\01. Calculator\bin\Debug\netcoreapp3.1\01. Calculator.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\01. Calculator\obj\Debug\netcoreapp3.1\01. Calculator.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\01. Calculator\obj\Debug\netcoreapp3.1\01. Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\01. Calculator\obj\Debug\netcoreapp3.1\01. Calculator.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\01. Calculator\obj\Debug\netcoreapp3.1\01. Calculator.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\01. Calculator\obj\Debug\netcoreapp3.1\01. Calculator.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\01. Calculator\obj\Debug\netcoreapp3.1\01. Calculator.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\01. Calculator\obj\Debug\netcoreapp3.1\01. Calculator.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\01. Calculator\obj\Debug\netcoreapp3.1\01. Calculator.genruntimeconfig.cache

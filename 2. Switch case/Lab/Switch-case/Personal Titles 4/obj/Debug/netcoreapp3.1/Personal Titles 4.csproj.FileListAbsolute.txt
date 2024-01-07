@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Personal Titles 4\bin\Debug\netcoreapp3.1\Personal Titles 4.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Personal Titles 4\bin\Debug\netcoreapp3.1\Personal Titles 4.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Personal Titles 4\bin\Debug\netcoreapp3.1\Personal Titles 4.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Personal Titles 4\bin\Debug\netcoreapp3.1\Personal Titles 4.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Personal Titles 4\bin\Debug\netcoreapp3.1\Personal Titles 4.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Personal Titles 4\bin\Debug\netcoreapp3.1\Personal Titles 4.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Personal Titles 4\obj\Debug\netcoreapp3.1\Personal Titles 4.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Personal Titles 4\obj\Debug\netcoreapp3.1\Personal Titles 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Personal Titles 4\obj\Debug\netcoreapp3.1\Personal Titles 4.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Personal Titles 4\obj\Debug\netcoreapp3.1\Personal Titles 4.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Personal Titles 4\obj\Debug\netcoreapp3.1\Personal Titles 4.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Personal Titles 4\obj\Debug\netcoreapp3.1\Personal Titles 4.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Personal Titles 4\obj\Debug\netcoreapp3.1\Personal Titles 4.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Personal Titles 4\obj\Debug\netcoreapp3.1\Personal Titles 4.genruntimeconfig.cache

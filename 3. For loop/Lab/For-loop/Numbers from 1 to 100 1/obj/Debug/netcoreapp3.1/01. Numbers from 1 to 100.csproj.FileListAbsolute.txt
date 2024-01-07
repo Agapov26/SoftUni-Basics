@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\Numbers from 1 to 100 1\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\Numbers from 1 to 100 1\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\Numbers from 1 to 100 1\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\Numbers from 1 to 100 1\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\Numbers from 1 to 100 1\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\Numbers from 1 to 100 1\bin\Debug\netcoreapp3.1\01. Numbers from 1 to 100.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\Numbers from 1 to 100 1\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\Numbers from 1 to 100 1\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\Numbers from 1 to 100 1\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\Numbers from 1 to 100 1\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\Numbers from 1 to 100 1\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\Numbers from 1 to 100 1\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 9 For Loop\For-loop\Numbers from 1 to 100 1\obj\Debug\netcoreapp3.1\01. Numbers from 1 to 100.genruntimeconfig.cache

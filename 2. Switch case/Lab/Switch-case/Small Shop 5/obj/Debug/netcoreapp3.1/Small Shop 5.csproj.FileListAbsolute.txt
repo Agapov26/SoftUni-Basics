@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Small Shop 5\bin\Debug\netcoreapp3.1\Small Shop 5.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Small Shop 5\bin\Debug\netcoreapp3.1\Small Shop 5.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Small Shop 5\bin\Debug\netcoreapp3.1\Small Shop 5.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Small Shop 5\bin\Debug\netcoreapp3.1\Small Shop 5.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Small Shop 5\bin\Debug\netcoreapp3.1\Small Shop 5.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Small Shop 5\bin\Debug\netcoreapp3.1\Small Shop 5.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Small Shop 5\obj\Debug\netcoreapp3.1\Small Shop 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Small Shop 5\obj\Debug\netcoreapp3.1\Small Shop 5.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Small Shop 5\obj\Debug\netcoreapp3.1\Small Shop 5.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Small Shop 5\obj\Debug\netcoreapp3.1\Small Shop 5.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Small Shop 5\obj\Debug\netcoreapp3.1\Small Shop 5.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Small Shop 5\obj\Debug\netcoreapp3.1\Small Shop 5.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 7 Switch-case\Switch-case\Small Shop 5\obj\Debug\netcoreapp3.1\Small Shop 5.genruntimeconfig.cache

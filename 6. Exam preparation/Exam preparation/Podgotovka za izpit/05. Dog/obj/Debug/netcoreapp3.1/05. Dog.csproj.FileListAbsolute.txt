@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\05. Dog\bin\Debug\netcoreapp3.1\05. Dog.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\05. Dog\bin\Debug\netcoreapp3.1\05. Dog.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\05. Dog\bin\Debug\netcoreapp3.1\05. Dog.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\05. Dog\bin\Debug\netcoreapp3.1\05. Dog.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\05. Dog\bin\Debug\netcoreapp3.1\05. Dog.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\05. Dog\bin\Debug\netcoreapp3.1\05. Dog.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\05. Dog\obj\Debug\netcoreapp3.1\05. Dog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\05. Dog\obj\Debug\netcoreapp3.1\05. Dog.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\05. Dog\obj\Debug\netcoreapp3.1\05. Dog.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\05. Dog\obj\Debug\netcoreapp3.1\05. Dog.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\05. Dog\obj\Debug\netcoreapp3.1\05. Dog.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\05. Dog\obj\Debug\netcoreapp3.1\05. Dog.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\05. Dog\obj\Debug\netcoreapp3.1\05. Dog.genruntimeconfig.cache

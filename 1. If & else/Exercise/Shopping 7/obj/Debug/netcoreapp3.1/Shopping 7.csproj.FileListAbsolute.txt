@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Shopping 7\bin\Debug\netcoreapp3.1\Shopping 7.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Shopping 7\bin\Debug\netcoreapp3.1\Shopping 7.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Shopping 7\bin\Debug\netcoreapp3.1\Shopping 7.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Shopping 7\bin\Debug\netcoreapp3.1\Shopping 7.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Shopping 7\bin\Debug\netcoreapp3.1\Shopping 7.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Shopping 7\bin\Debug\netcoreapp3.1\Shopping 7.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Shopping 7\obj\Debug\netcoreapp3.1\Shopping 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Shopping 7\obj\Debug\netcoreapp3.1\Shopping 7.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Shopping 7\obj\Debug\netcoreapp3.1\Shopping 7.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Shopping 7\obj\Debug\netcoreapp3.1\Shopping 7.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Shopping 7\obj\Debug\netcoreapp3.1\Shopping 7.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Shopping 7\obj\Debug\netcoreapp3.1\Shopping 7.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Uprajnenie Day 6\Shopping 7\obj\Debug\netcoreapp3.1\Shopping 7.genruntimeconfig.cache

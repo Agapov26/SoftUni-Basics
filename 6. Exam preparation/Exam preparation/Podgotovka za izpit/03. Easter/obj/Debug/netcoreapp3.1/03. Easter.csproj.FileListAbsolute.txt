@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\03. Easter\bin\Debug\netcoreapp3.1\03. Easter.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\03. Easter\bin\Debug\netcoreapp3.1\03. Easter.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\03. Easter\bin\Debug\netcoreapp3.1\03. Easter.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\03. Easter\bin\Debug\netcoreapp3.1\03. Easter.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\03. Easter\bin\Debug\netcoreapp3.1\03. Easter.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\03. Easter\bin\Debug\netcoreapp3.1\03. Easter.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\03. Easter\obj\Debug\netcoreapp3.1\03. Easter.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\03. Easter\obj\Debug\netcoreapp3.1\03. Easter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\03. Easter\obj\Debug\netcoreapp3.1\03. Easter.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\03. Easter\obj\Debug\netcoreapp3.1\03. Easter.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\03. Easter\obj\Debug\netcoreapp3.1\03. Easter.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\03. Easter\obj\Debug\netcoreapp3.1\03. Easter.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\03. Easter\obj\Debug\netcoreapp3.1\03. Easter.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\03. Easter\obj\Debug\netcoreapp3.1\03. Easter.genruntimeconfig.cache

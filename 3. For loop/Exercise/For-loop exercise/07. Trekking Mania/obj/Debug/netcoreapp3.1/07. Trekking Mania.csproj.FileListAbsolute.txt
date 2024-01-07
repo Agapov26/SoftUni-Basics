@@ -1,0 +1,13 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\07. Trekking Mania\bin\Debug\netcoreapp3.1\07. Trekking Mania.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 10 For Loop Exercise\For-loop exercise\07. Trekking Mania\obj\Debug\netcoreapp3.1\07. Trekking Mania.genruntimeconfig.cache

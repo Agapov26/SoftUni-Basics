@@ -1,0 +1,14 @@
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\04.Balls\bin\Debug\netcoreapp3.1\04.Balls.exe
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\04.Balls\bin\Debug\netcoreapp3.1\04.Balls.deps.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\04.Balls\bin\Debug\netcoreapp3.1\04.Balls.runtimeconfig.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\04.Balls\bin\Debug\netcoreapp3.1\04.Balls.runtimeconfig.dev.json
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\04.Balls\bin\Debug\netcoreapp3.1\04.Balls.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\04.Balls\bin\Debug\netcoreapp3.1\04.Balls.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\04.Balls\obj\Debug\netcoreapp3.1\04.Balls.csproj.AssemblyReference.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\04.Balls\obj\Debug\netcoreapp3.1\04.Balls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\04.Balls\obj\Debug\netcoreapp3.1\04.Balls.AssemblyInfoInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\04.Balls\obj\Debug\netcoreapp3.1\04.Balls.AssemblyInfo.cs
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\04.Balls\obj\Debug\netcoreapp3.1\04.Balls.csproj.CoreCompileInputs.cache
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\04.Balls\obj\Debug\netcoreapp3.1\04.Balls.dll
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\04.Balls\obj\Debug\netcoreapp3.1\04.Balls.pdb
+C:\Users\stani\OneDrive\Documents\SoftUni Basics C#\Day 15 Podgotovka za izpit\Podgotovka za izpit\04.Balls\obj\Debug\netcoreapp3.1\04.Balls.genruntimeconfig.cache
